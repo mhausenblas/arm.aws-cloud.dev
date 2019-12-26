@@ -1,3 +1,1 @@
-Some useful tools for working with Arm-based architecture.
-
-
+Some useful tools for working with Arm-based architectures.

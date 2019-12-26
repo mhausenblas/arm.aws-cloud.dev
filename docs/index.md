@@ -2,7 +2,7 @@ This site is dedicated to documenting resources on the topic of applying the [Ar
 
 !!! note
     If you are new to Arm, consider perusing the official [docs](https://developer.arm.com/docs) where you can
-    download a range of hardward and software-related background information.
+    download a range of hardware and software-related background information.
 
 ## Instances
 
