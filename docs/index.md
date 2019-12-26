@@ -26,4 +26,6 @@ For cloud native applications, you can use containers:
 For IoT and/or hybrid use cases:
 
 - Learn how to set up a [Raspberry Pi for AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/setup-filter.rpi.html)
-- Check out the AWS re:Invent 2018 session "[Amazon FreeRTOS: IoT Operating System for Microcontrollers](https://www.youtube.com/watch?v=7fNFKYAuHls)" (IOT208-R1).
+- Check out these AWS re:Invent sessions:
+    - "[Computing at the Edge with AWS Greengrass & Amazon FreeRTOS](https://www.youtube.com/watch?v=MXEBjUZtT8Y)" (IOT206), 2018
+    - "[Amazon FreeRTOS: IoT Operating System for Microcontrollers](https://www.youtube.com/watch?v=7fNFKYAuHls)" (IOT208), 2018
