@@ -1,12 +1,25 @@
-This site is dedicated to the [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture) on AWS.
+This site is dedicated to documenting resources on the topic of applying the [Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture) in the context of AWS services.
 
 ## Instances
 
-- [Graviton](https://aws.amazon.com/ec2/graviton/) A1
-- Graviton2
-    - AWS re:Invent 2019: [Deep dive on ARM-based EC2 instances powered by AWS Graviton (CMP322-R1)](https://www.youtube.com/watch?v=4jImmuMqnwc)
-    - [Coming Soon – Graviton2-Powered General Purpose, Compute-Optimized, & Memory-Optimized EC2 Instances](https://aws.amazon.com/blogs/aws/coming-soon-graviton2-powered-general-purpose-compute-optimized-memory-optimized-ec2-instances/)
+AWS offers a number of options to run apps on Arm architecture-based EC2 instances:
 
-## Recipes
+- The first-generation [Graviton](https://aws.amazon.com/ec2/graviton/) A1 instances launched in 2018.
+- The Graviton2 instances launched in 2019:
+    - Check out the AWS re:Invent 2019 session "[Deep dive on Arm-based EC2 instances powered by AWS Graviton](https://www.youtube.com/watch?v=4jImmuMqnwc)" (CMP322-R1).
+    - Read about the new instance family and how to get preview access in Jeff Barr's blog post [Coming Soon – Graviton2-Powered General Purpose, Compute-Optimized, & Memory-Optimized EC2 Instances](https://aws.amazon.com/blogs/aws/coming-soon-graviton2-powered-general-purpose-compute-optimized-memory-optimized-ec2-instances/).
 
-- Use [Amazon EKS on ARM](https://gist.github.com/mhausenblas/a1d195745267811b68055320f9844fe1)
+## Containers
+
+For cloud native applications, you can use containers:
+
+- Learn about how to [get started with Docker on Arm](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/getting-started-with-docker-on-arm).
+- If you want to package and distribute your app, have a look ast [cross building Arm images on Docker Desktop](https://medium.com/@carlosedp/cross-building-arm64-images-on-docker-desktop-254d1e0bc1f9).
+- Manually follow the steps described in [Arm Support in Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html) or use a script [for provisioning a cluster](https://gist.github.com/mhausenblas/a1d195745267811b68055320f9844fe1).
+
+## Devices
+
+For IoT and/or hybrid use cases:
+
+- Learn how to set up a [Raspberry Pi for AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/setup-filter.rpi.html)
+- Check out the AWS re:Invent 2018 session "[Amazon FreeRTOS: IoT Operating System for Microcontrollers](https://www.youtube.com/watch?v=7fNFKYAuHls)" (IOT208-R1).
