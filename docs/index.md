@@ -1,5 +1,9 @@
 This site is dedicated to documenting resources on the topic of applying the [Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture) in the context of AWS services.
 
+!!! note
+    If you are new to Arm, consider perusing the official [docs](https://developer.arm.com/docs) where you can
+    download a range of hardward and software-related background information.
+
 ## Instances
 
 AWS offers a number of options to run apps on Arm architecture-based EC2 instances:
