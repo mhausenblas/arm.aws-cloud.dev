@@ -1,9 +1,9 @@
-site_name: Test docs
-site_description: 'A docs test'
+site_name: ARM on AWS
+site_description: 'Using ARM on AWS'
 site_author: 'Michael Hausenblas'
 docs_dir: docs/
-repo_name: 'mhausenblas/actions-sandbox'
-repo_url: 'https://github.com/mhausenblas/actions-sandbox'
+repo_name: 'mhausenblas/arm.aws-cloud.dev'
+repo_url: 'https://github.com/mhausenblas/arm.aws-cloud.dev'
 nav:
     - Home: index.md
 theme:
