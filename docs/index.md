@@ -18,8 +18,8 @@ AWS offers a number of options to run apps on Arm architecture-based EC2 instanc
 For cloud native applications, you can use containers:
 
 - Learn about how to [get started with Docker on Arm](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/getting-started-with-docker-on-arm).
-- If you want to package and distribute your app, have a look ast [cross building Arm images on Docker Desktop](https://medium.com/@carlosedp/cross-building-arm64-images-on-docker-desktop-254d1e0bc1f9).
-- Manually follow the steps described in [Arm Support in Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html) or use a script [for provisioning a cluster](https://gist.github.com/mhausenblas/a1d195745267811b68055320f9844fe1).
+- If you want to package and distribute your apps, have a look at [cross building Arm images on Docker Desktop](https://medium.com/@carlosedp/cross-building-arm64-images-on-docker-desktop-254d1e0bc1f9).
+- Manually follow the steps described in [Arm Support in Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html) or use a script [for provisioning an EKS cluster](https://gist.github.com/mhausenblas/a1d195745267811b68055320f9844fe1) using `eksctl`.
 
 ## Devices
 
