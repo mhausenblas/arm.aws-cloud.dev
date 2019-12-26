@@ -8,7 +8,9 @@ This site is dedicated to documenting resources on the topic of applying the [Ar
 
 AWS offers a number of options to run apps on Arm architecture-based EC2 instances:
 
-- The first-generation [Graviton](https://aws.amazon.com/ec2/graviton/) A1 instances launched in 2018.
+- The first-generation [Graviton](https://aws.amazon.com/ec2/graviton/) A1 instances launched in 2018:
+    - [Getting started with the A1 instance](https://aws.amazon.com/blogs/compute/getting-started-with-the-a1-instance/)
+    - [AWS Designed Processor: Graviton](https://perspectives.mvdirona.com/2018/11/aws-designed-processor-graviton/) by James Hamilton
 - The Graviton2 instances launched in 2019:
     - Check out the AWS re:Invent 2019 session "[Deep dive on Arm-based EC2 instances powered by AWS Graviton](https://www.youtube.com/watch?v=4jImmuMqnwc)" (CMP322-R1).
     - Read about the new instance family and how to get preview access in Jeff Barr's blog post [Coming Soon – Graviton2-Powered General Purpose, Compute-Optimized, & Memory-Optimized EC2 Instances](https://aws.amazon.com/blogs/aws/coming-soon-graviton2-powered-general-purpose-compute-optimized-memory-optimized-ec2-instances/).
