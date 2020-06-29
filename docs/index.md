@@ -1,4 +1,4 @@
-This site is dedicated to documenting resources on the topic of applying the [Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture) in the context of AWS services.
+This site is dedicated to documenting resources on the topic of using [Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture)-based systems on AWS.
 
 !!! note
     If you are new to Arm, consider perusing the official [docs](https://developer.arm.com/docs) where you can
