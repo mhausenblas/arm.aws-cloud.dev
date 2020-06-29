@@ -1,8 +1,11 @@
-This site is dedicated to documenting resources on the topic of using [Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture)-based systems on AWS.
+This site documents resources around using 
+[Arm architecture](https://en.wikipedia.org/wiki/ARM_architecture)-based systems on AWS.
 
-!!! note
-    If you are new to Arm, consider perusing the official [docs](https://developer.arm.com/docs) where you can
-    download a range of hardware and software-related background information.
+If you are new to Arm, have a look at the official [Arm docs](https://developer.arm.com/docs) 
+where you can download a range of hardware and software-related background information.
+
+Also, for some background on Arm, consider checking out the short Computerphile 
+documentary [Sowing the Seeds of Success](https://www.youtube.com/watch?v=1jOJl8gRPyQ).
 
 ## Instances
 
