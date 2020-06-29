@@ -1,10 +1,10 @@
-site_name: Arm on AWS
-site_description: 'Using Arm on AWS'
+site_name: Arm at AWS
+site_description: 'Resources for Arm at AWS'
 site_author: 'Michael Hausenblas'
-copyright: 'Copyright &copy; 2019 Amazon'
+copyright: 'Copyright &copy; 2020 Amazon'
 docs_dir: docs/
-repo_name: 'mhausenblas/arm.aws-cloud.dev'
-repo_url: 'https://github.com/mhausenblas/arm.aws-cloud.dev'
+# repo_name: 'mhausenblas/arm.aws-cloud.dev'
+# repo_url: 'https://github.com/mhausenblas/arm.aws-cloud.dev'
 nav:
     - Home: index.md
     - Tools: tools.md
